@@ -12,6 +12,13 @@ No real IT skills are required to play this game :)
 
 With **three** sets of rules included: tutorial, regular, and hard modes!
 
+---
+
+## Development Visualization
+
+<video src="https://github.com/itsdarklikehell/ship-it-boardgame/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+
+*Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Play
 
 - Order a physical copy: [mail@sobolevn.me](mailto:mail@sobolevn.me)
