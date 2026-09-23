@@ -16,7 +16,7 @@ With **three** sets of rules included: tutorial, regular, and hard modes!
 
 ## Development Visualization
 
-<video src="https://github.com/itsdarklikehell/ship-it-boardgame/assets/example.com/123456/gource.mp4" controls width="100%"></video>
+<video src="https://raw.githubusercontent.com/itsdarklikehell/ship-it-boardgame/master/gource.mp4" controls width="100%"></video>
 
 *Gource visualization showing the repository's commit history. See the [Gource workflow](.github/workflows/gource.yml) for details.*
 ## Play
